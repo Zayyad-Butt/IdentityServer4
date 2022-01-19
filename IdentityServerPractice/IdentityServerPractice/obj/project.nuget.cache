@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "b6eAPavRRbB9u1yl4J9oU28tekMbMmeHb7Cvohnk1X5/h3bVHE35xezJzHpAoXz27Ro/TsHGF5ulZfBnfp3pqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zayya\\Documents\\New folder\\IdentityServer4\\IdentityServerPractice\\IdentityServerPractice\\IdentityServerPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zayya\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\identitymodel.aspnetcore.oauth2introspection\\4.0.1\\identitymodel.aspnetcore.oauth2introspection.4.0.1.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\identityserver4.accesstokenvalidation\\3.0.1\\identityserver4.accesstokenvalidation.3.0.1.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.0.0\\microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.6.0\\microsoft.identitymodel.jsonwebtokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.identitymodel.logging\\5.6.0\\microsoft.identitymodel.logging.5.6.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.6.0\\microsoft.identitymodel.protocols.5.6.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.6.0\\microsoft.identitymodel.protocols.openidconnect.5.6.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.6.0\\microsoft.identitymodel.tokens.5.6.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.6.0\\system.identitymodel.tokens.jwt.5.6.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\zayya\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
